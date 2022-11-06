@@ -7,7 +7,7 @@ export default function Project({ project }) {
             <div className="card-body">
                 <h3 className="card-title">{project.name}</h3>
                 <p className="card-text">{project.description}</p>
-                <a className="btn btn-primary" href={project.github} target="_blank">View on GitHub</a>
+                <a className="btn btn-primary" href={project.github} target="_blank" rel="noreferrer">View on GitHub</a>
             </div>
         </div>
     )
