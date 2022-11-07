@@ -23,7 +23,7 @@ export default function About() {
             <div>
                 <h1>About Me</h1>
 
-                <p>I'm Allen, a Full-stack Software Engineer with a passion for building applications that provide a clean and valuable user experience. I bring a detail-oriented approach to my work which has been cultivated through years of being a completionist gamer. I love seeing ideas grow into fully developed projects and would be delighted to be a part of growing yours.</p>
+                <p>My name is Allen and I am a Full-stack Software Engineer with a passion for building applications that provide a clean and valuable user experience. I bring a detail-oriented approach to my work which has been cultivated through years of being a completionist gamer. I love seeing ideas grow into fully developed projects and would be delighted to be a part of growing yours.</p>
             </div>
 
             {/* 
